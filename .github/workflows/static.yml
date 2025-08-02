@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Numbra — A Sombra que Nunca Apaga</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      color: #ccc;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      width: 100%;
+      text-align: center;
+      background-color: #000;
+      padding: 20px 0;
+    }
+
+    header img {
+      width: 100%;
+      max-width: 1000px;
+      height: auto;
+    }
+
+    main {
+      max-width: 800px;
+      padding: 30px 20px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 100px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      color: #aaa;
+      font-size: 2em;
+    }
+
+    p {
+      line-height: 1.6;
+      font-size: 1.1em;
+      color: #bbb;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="banner.png" alt="Banner Numbra" />
+  </header>
+
+  <main>
+    <img src="logo.png" alt="Logo Numbra" class="logo" />
+    <h1>A Sombra que Nunca Apaga</h1>
+    <p>
+      Somos a <strong>Numbra</strong>, uma iniciativa inovadora que atua na intersecção entre tecnologia, arte e inteligência estratégica.
+      Nossa missão é entregar soluções que operam nas sombras — silenciosas, potentes e precisas.<br><br>
+      Estamos trazendo ao mercado uma nova perspectiva: discreta, inteligente e fora do radar.
+      Nosso foco está em criar experiências impactantes com base em dados, design e propósito.
+    </p>
+    <p>
+      <strong>🚧 Em desenvolvimento:</strong> no momento, a Numbra está sendo lapidada nos bastidores.<br>
+      Em breve, abriremos para parcerias, projetos e contratações. Fique ligado.
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2025 Numbra. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
